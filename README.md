@@ -1,12 +1,13 @@
 ### Hi there 👋, my name is Federico Vega
 #### I am a Python Developer Backend
-![I am a Python Developer Backend](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a systems analyst, graduated in 2016.
 I also completed two careers at the same time, network and telecommunications technician and hardware technician.
 My skills range from repairing computer equipment to programming.
 I love what python can do, and all the power it gives one when programming.
 If you are interested in contacting me, don't hesitate!
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarthKenar)  
 
 Skills: PYTHON / DJANGO / FASTAPI / SQL / Web Services / HTML
 
@@ -24,7 +25,7 @@ Skills: PYTHON / DJANGO / FASTAPI / SQL / Web Services / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthKenar&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarthKenar)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/DarthKenar)  
 
