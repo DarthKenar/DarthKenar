@@ -7,7 +7,8 @@ My skills range from repairing computer equipment to programming.
 I love what python can do, and all the power it gives one when programming.
 If you are interested in contacting me, don't hesitate!
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarthKenar)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthKenar&show_icons=true&count_private=true)  
 
 Skills: PYTHON / DJANGO / FASTAPI / SQL / Web Services / HTML
 
@@ -23,9 +24,8 @@ Skills: PYTHON / DJANGO / FASTAPI / SQL / Web Services / HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthKenar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthKenar&show_icons=true&count_private=true)  
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarthKenar)  
 
 ![GitHub metrics](https://metrics.lecoq.io/DarthKenar)  
 
