@@ -16,6 +16,7 @@ Skills: PYTHON / DJANGO / FASTAPI / SQL / Web Services / HTML
 - 🌱 I’m currently learning Numpy, Pandas and MatPlotLib 
 - 👯 I’m looking to collaborate on FratDevs Proyect 
 - 📫 How to reach me: federico_vega22@hotmail.com 
+
 ---> www.f-vega.com <---
 
 
