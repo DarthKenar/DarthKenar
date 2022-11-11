@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Federico Vega
-#### I am a Python Developer Backend
+#### I am a Backend Developer
 
 I am a systems analyst, graduated in 2016.
 I also completed two careers at the same time, network and telecommunications technician and hardware technician.
