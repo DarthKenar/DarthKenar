@@ -7,6 +7,9 @@ My skills range from repairing computer equipment to programming.
 I love what python can do, and all the power it gives one when programming.
 If you are interested in contacting me, don't hesitate!
 
+I am currently working for zerpens, a software factory dedicated to web development.
+---> https://zerpens.com/ <---
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DarthKenar&show_icons=true&count_private=true)  
 
