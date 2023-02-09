@@ -15,7 +15,7 @@ Skills: PYTHON / DJANGO / FASTAPI / SQL / Web Services
 
 - 🔭 I’m currently working on my personal web 
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on IOSEPH+ Proyect 
+- 👯 I’m looking to collaborate on [IOSEPH+](https://github.com/St-Ioseph) Proyect 
 - 📫 How to reach me: federico_vega22@hotmail.com 
 
 ---> www.f-vega.com <---
