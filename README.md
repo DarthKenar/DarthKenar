@@ -9,8 +9,6 @@ If you are interested in contacting me, don't hesitate!
 
 I am currently working for IOSEPH, a software factory dedicated to web development.
 
----> https://zerpens.com/ <---
-
 Skills: PYTHON / DJANGO / SQL / Web Services 
 
 - 🔭 I’m currently working on my personal web 
