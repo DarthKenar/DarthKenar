@@ -7,15 +7,15 @@ My skills range from repairing computer equipment to programming.
 I love what python can do, and all the power it gives one when programming.
 If you are interested in contacting me, don't hesitate!
 
-I am currently working for zerpens, a software factory dedicated to web development.
+I am currently working for IOSEPH, a software factory dedicated to web development.
 
 ---> https://zerpens.com/ <---
 
-Skills: PYTHON / DJANGO / FASTAPI / SQL / Web Services 
+Skills: PYTHON / DJANGO / SQL / Web Services 
 
 - 🔭 I’m currently working on my personal web 
 - 🌱 I’m currently learning Django
-- 👯 I’m collaborating on [IOSEPH+](https://github.com/St-Ioseph) Proyect 
+- 👯 I’m collaborating on [IOSEPH+](https://github.com/St-Ioseph) Proyect
 - 📫 How to reach me: federico_vega22@hotmail.com 
 
 ---> www.f-vega.com <---
