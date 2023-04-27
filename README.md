@@ -7,8 +7,6 @@ My skills range from repairing computer equipment to programming.
 I love what python can do, and all the power it gives one when programming.
 If you are interested in contacting me, don't hesitate!
 
-I am currently working for IOSEPH, a software factory dedicated to web development.
-
 Skills: PYTHON / DJANGO / SQL / Web Services 
 
 - 🔭 I’m currently working on my personal web 
