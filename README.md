@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Federico Vega
 #### I am a Backend Developer
 
-I am a systems analyst, graduated in 2016.
+I am a systems analyst, graduated in 2018.
 I also completed two careers at the same time, network and telecommunications technician and hardware technician.
 My skills range from repairing computer equipment to programming.
 I love what python can do, and all the power it gives one when programming.
