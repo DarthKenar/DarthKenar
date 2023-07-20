@@ -9,12 +9,13 @@ If you are interested in contacting me, don't hesitate!
 
 Skills: PYTHON / DJANGO / SQL / Web Services 
 
-- 🔭 I’m currently working on my personal web 
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on ElCanarioRegionales System
+- 🌱 I’m currently improving my Django skills
 - 👯 I’m collaborating on [IOSEPH+](https://github.com/St-Ioseph) Proyect
 - 📫 How to reach me: federico_vega22@hotmail.com 
+- 📫 How to reach me: federico.vega2222@gmail.com 
 
----> www.f-vega.com <---
+---> [https://www.f-vega.com](https://www.f-vega.com) <---
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DarthKenar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/federico-juan-vega-b19775215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCyXCCAQP_La8I2JtMVica9w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://f-vega.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/DarthKenar/)  
