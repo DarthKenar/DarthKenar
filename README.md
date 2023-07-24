@@ -24,11 +24,5 @@ Skills: PYTHON / DJANGO / SQL / Web Services
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthKenar)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DarthKenar)  
-
-![GitHub metrics](https://metrics.lecoq.io/DarthKenar)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=DarthKenar)  
 
-![Profile views](https://gpvc.arturio.dev/DarthKenar)  
