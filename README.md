@@ -12,8 +12,7 @@ Skills: PYTHON / DJANGO / SQL / Web Services
 - 🔭 I’m currently working on ElCanarioRegionales System
 - 🌱 I’m currently improving my Django skills
 - 👯 I’m collaborating on [IOSEPH+](https://github.com/St-Ioseph) Proyect
-- 📫 How to reach me: federico_vega22@hotmail.com 
-- 📫 How to reach me: federico.vega2222@gmail.com 
+- 📫 How to reach me: federico_vega22@hotmail.com , federico.vega2222@gmail.com 
 
 ---> [https://www.f-vega.com](https://www.f-vega.com) <---
 
