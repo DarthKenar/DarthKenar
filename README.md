@@ -7,8 +7,6 @@ My skills range from repairing computer equipment to programming.
 I love what python can do, and all the power it gives one when programming.
 If you are interested in contacting me, don't hesitate!
 
-Skills: PYTHON / DJANGO / SQL / Web Services 
-
 - 🔭 I’m currently working on ElCanarioRegionales System
 - 🌱 I’m currently improving my Django skills
 - 👯 I’m collaborating on [IOSEPH+](https://github.com/St-Ioseph) Proyect
