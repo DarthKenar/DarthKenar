@@ -1,16 +1,35 @@
 ### Hi there 👋, my name is Federico Vega
 #### System Analyst and Programmer
 
-I am a systems analyst, graduated in 2018.
-I also completed two careers at the same time, network and telecommunications technician and hardware technician.
-My skills range from repairing computer equipment to programming.
-I love what python can do, and all the power it gives one when programming.
-If you are interested in contacting me, don't hesitate!
+🚀 Analista en Sistemas | Desarrollador Web | Full Stack
 
-- 🔭 I’m currently working on ElCanarioRegionales System
-- 🌱 I’m currently improving my Django skills
-- 👯 I’m collaborating on [IOSEPH+](https://github.com/St-Ioseph) Proyect
-- 📫 How to reach me: federico_vega22@hotmail.com , federico.vega2222@gmail.com 
+¡Bienvenido/a a mi perfil! Soy Federico Vega, un profesional con una sólida formación y experiencia en el ámbito de la tecnología. Me destaco como Analista en Sistemas y cuento, además, con titulación y conocimientos en Telecomunicaciones y Redes.
+
+💻 Desarrollo Web:
+Mi enfoque principal está en el desarrollo web, donde utilizo mis habilidades en Python, Django y JavaScript para crear soluciones innovadoras. Pueden explorar mi portfolio en f-vega.com para conocer algunos de mis proyectos, incluyendo una aplicación de gestión desarrollada en Django, disponible para su prueba en federicovega.pythonanywhere.com
+
+🧠 Inteligencia Artificial:
+Con un firme interés en la inteligencia artificial, estoy preparandome para enfrentar los desafíos futuros y contribuir al crecimiento de cualquier empresa. Mi habilidad en Python se extenderá al ámbito de la IA, donde estoy ansioso por aplicar mis conocimientos.
+
+👨‍💻 Proyectos y Código:
+Mi compromiso con la excelencia se refleja en mis proyectos en GitHub, donde podrán encontrar desde minijuegos hasta algoritmos complejos. Destaco la refactorización exitosa de mi proyecto "El Canario Regionales" tres veces, demostrando mi capacidad y perseverancia para mejorar la eficiencia y la estética del código.
+
+🌐 Redes y Seguridad:
+Mis habilidades también se extienden al ámbito de la seguridad informática, con experiencia en auditoría de redes, kali linux y pentesting. Además, manejo con destreza servidores, protocolos de internet, bases de datos y configuración de DNS.
+
+🔗 Logros Adicionales:
+Participo activamente en el desarrollo de una startup que está programada para iniciar operaciones en 2024, mostrando mi compromiso con la innovación y el emprendimiento.
+
+📚 Compromiso con la Excelencia:
+Meticuloso/a en la creación de soluciones, documentación, diagramación y pruebas exhaustivas, como evidencia, les invito a explorar la documentación completa de uno de mis proyectos llamado "El Canario Regionales" en darthkenar.github.io/ElCanarioRegionales
+
+Estoy buscando oportunidades emocionantes y desafiantes en las que pueda aportar mi experiencia y pasión por la tecnología. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
+
+Estoy disponible para conversar y abierto/a a oportunidades, ¡no dudes en contactarme!
+
+📞 Contacto:
++5492615878046
+[https://www.linkedin.com/in/federico-juan-vega](LinkedIn)
 
 ---> [https://www.f-vega.com](https://www.f-vega.com) <---
 
