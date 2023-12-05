@@ -5,18 +5,15 @@
 🚀 Analista en Sistemas | Desarrollador Web | Full Stack
 
 ¡Bienvenido/a a mi perfil! Soy Federico Vega, un profesional con una sólida formación y experiencia en el ámbito de la tecnología. Me destaco como Analista en Sistemas y cuento, además, con titulación y conocimientos en Telecomunicaciones y Redes.
- 
-
+ ---
 💻 Desarrollo Web:
 
 Mi enfoque principal está en el desarrollo web, donde utilizo mis habilidades en Python, Django y JavaScript para crear soluciones innovadoras. Pueden explorar mi portfolio en f-vega.com para conocer algunos de mis proyectos, incluyendo una aplicación de gestión desarrollada en Django, disponible para su prueba en federicovega.pythonanywhere.com
- 
-
+ ---
 🧠 Inteligencia Artificial:
 
 Con un firme interés en la inteligencia artificial, estoy preparandome para enfrentar los desafíos futuros y contribuir al crecimiento de cualquier empresa. Mi habilidad en Python se extenderá al ámbito de la IA, donde estoy ansioso por aplicar mis conocimientos.
- 
-
+ ---
 👨‍💻 Proyectos y Código:
 
 Mi compromiso con la excelencia se refleja en mis proyectos en GitHub, donde podrán encontrar desde minijuegos hasta algoritmos complejos. Destaco la refactorización exitosa de mi proyecto "El Canario Regionales" tres veces, demostrando mi capacidad y perseverancia para mejorar la eficiencia y la estética del código.
