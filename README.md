@@ -41,7 +41,9 @@ Participo activamente en el desarrollo de una startup que está programada para 
 
 📚 Compromiso con la Excelencia:
 
-Meticuloso/a en la creación de soluciones, documentación, diagramación y pruebas exhaustivas, como evidencia, les invito a explorar la documentación completa de uno de mis proyectos llamado "El Canario Regionales" en darthkenar.github.io/ElCanarioRegionales
+Meticuloso/a en la creación de soluciones, documentación, diagramación y pruebas exhaustivas, como evidencia, les invito a explorar la documentación completa de uno de mis proyectos llamado "El Canario Regionales" en [darthkenar.github.io/ElCanarioRegionales](darthkenar.github.io/ElCanarioRegionales)
+
+---
 
 Estoy buscando oportunidades emocionantes y desafiantes en las que pueda aportar mi experiencia y pasión por la tecnología. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
 
