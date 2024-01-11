@@ -51,7 +51,7 @@ Estoy disponible para conversar y abierto/a a oportunidades, ¡no dudes en conta
 
 
 📞 Contacto:
-+5492615878046
++5492615880318
 [https://www.linkedin.com/in/federico-juan-vega](LinkedIn)
 
 ---> [https://www.f-vega.com](https://www.f-vega.com) <---
