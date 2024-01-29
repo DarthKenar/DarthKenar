@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Federico Vega
-#### System Analyst and Programmer
+### Hola 👋, yo soy Federico Vega.
+#### Analista en Sistemas y Programador.
 
 ---
 
