@@ -1,6 +1,6 @@
 ## 🚀 Analista en Sistemas | Desarrollador Web | Full Stack
 
-¡Bienvenido/a a mi perfil! Soy Federico Vega, un profesional con una sólida formación y experiencia en el ámbito de la tecnología. Me destaco como Analista en Sistemas y cuento, además, con titulación y conocimientos en Telecomunicaciones y Redes.
+¡Bienvenido/a a mi perfil! Soy Federico Vega, un profesional con una sólida formación y experiencia en el ámbito de la tecnología. Me destaco como Analista en Sistemas y cuento además con titulación y conocimientos en Telecomunicaciones y Redes.
 
  ---
  
