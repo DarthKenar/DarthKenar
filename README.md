@@ -40,10 +40,6 @@ Participo activamente en el desarrollo de una startup que está programada para 
  
 ---
 
-Estoy buscando oportunidades emocionantes y desafiantes en las que pueda intercambiar experiencia, ideas y mi entusiasmo. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
-
-Estoy disponible para conversar y abierto/a a oportunidades, ¡no dudes en contactarme!
-
 👨‍💻 Preyecto actual de portfolio (en desarrollo):
 
 Pomodoro Neumorfista
@@ -52,8 +48,11 @@ Pomodoro Neumorfista
 
 [Github repo link](https://github.com/DarthKenar/PomodoroNeumorphism)
 
+---
 
+Estoy buscando oportunidades emocionantes y desafiantes en las que pueda intercambiar experiencia, ideas y mi entusiasmo. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
 
+Estoy disponible para conversar y abierto/a a oportunidades, ¡no dudes en contactarme!
 
 📞 Contacto:
 +5492615880318
