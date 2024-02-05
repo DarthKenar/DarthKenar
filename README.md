@@ -55,7 +55,9 @@ Estoy buscando oportunidades emocionantes y desafiantes en las que pueda interca
 Estoy disponible para conversar y abierto/a a oportunidades, ¡no dudes en contactarme!
 
 📞 Contacto:
-+5492615880318
+
++5492615880318 (disponible para trabajos particulares)
+
 [https://www.linkedin.com/in/federico-juan-vega](LinkedIn)
 
 ---> [https://www.f-vega.com](https://www.f-vega.com) <---
