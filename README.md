@@ -1,12 +1,12 @@
 ## 🚀 Analista en Sistemas | Desarrollador Web | Full Stack
 
-¡Bienvenido/a a mi perfil! Soy Federico Vega, un profesional con una sólida formación y experiencia en el ámbito de la tecnología. Me destaco como Analista en Sistemas y cuento además con titulación y conocimientos en Telecomunicaciones y Redes.
+Me destaco como Analista en Sistemas y programador web. Cuento además con titulación y conocimientos en Telecomunicaciones, Redes y Hardware.
 
  ---
  
 💻 Desarrollo Web:
 
-Mi enfoque principal está en el desarrollo web, donde utilizo mis habilidades en Python, Django y JavaScript para crear soluciones innovadoras. Pueden explorar mi portfolio en f-vega.com para conocer algunos de mis proyectos, incluyendo una aplicación de gestión desarrollada en Django, disponible para su prueba en [federicovega.pythonanywhere.com](https://federicovega.pythonanywhere.com)
+Mi enfoque principal está en el desarrollo web, donde utilizo mis habilidades en Python, Django y JavaScript para crear soluciones innovadoras. Pueden explorar mi portfolio en [f-vega.com](https://f-vega.com) para conocer algunos de mis proyectos.
 
  ---
  
@@ -18,13 +18,13 @@ Con un firme interés en la inteligencia artificial, estoy preparandome para enf
  
 👨‍💻 Proyectos y Código:
 
-Mi compromiso con la excelencia se refleja en mis proyectos en GitHub, donde podrán encontrar desde minijuegos hasta algoritmos complejos. Destaco la refactorización exitosa de mi proyecto "El Canario Regionales" tres veces, demostrando mi capacidad y perseverancia para mejorar la eficiencia y la estética del código.
+Mi compromiso con la excelencia se refleja en mis proyectos en GitHub, donde podrán encontrar desde minijuegos y aplicaciones web completas hasta algoritmos complejos. Destaco la refactorización exitosa de mi proyecto "El Canario Regionales" tanto en su lógica como en la interfaz, de esta manera optimicé los tiempos de respuesta del servidor en un 45%, demostrando mi capacidad y perseverancia para mejorar la eficiencia y la estética del código.
 
  ---
 
 🌐 Redes y Seguridad:
 
-Mis habilidades también se extienden al ámbito de la seguridad informática, con experiencia en auditoría de redes, kali linux y pentesting. Además, manejo con destreza servidores, protocolos de internet, bases de datos y configuración de DNS.
+Mis habilidades también se extienden al ámbito de la seguridad informática, con experiencia en auditoría de redes, kali linux y pentesting. Además, manejo con destreza servidores, protocolos de internet, bases de datos y configuraciones DNS.
  
 ---
 
@@ -40,7 +40,7 @@ Participo activamente en el desarrollo de una startup que está programada para 
  
 ---
 
-👨‍💻 Preyecto actual de portfolio (en desarrollo):
+👨‍💻 Ultimo proyecto:
 
 Pomodoro Neumorfista
 
@@ -50,7 +50,7 @@ Pomodoro Neumorfista
 
 ---
 
-Estoy buscando oportunidades emocionantes y desafiantes en las que pueda intercambiar experiencia, ideas y mi entusiasmo. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
+Estoy buscando oportunidades desafiantes en las que pueda intercambiar experiencia e ideas. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
 
 Estoy disponible para conversar y abierto/a a oportunidades, ¡no dudes en contactarme!
 
