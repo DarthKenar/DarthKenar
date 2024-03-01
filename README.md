@@ -1,52 +1,6 @@
 ## 🚀 Analista en Sistemas | Desarrollador Web | Full Stack
 
-Me destaco como Analista en Sistemas y programador web. Cuento además con titulación y conocimientos en Telecomunicaciones, Redes y Hardware.
 
- ---
- 
-💻 Desarrollo Web:
-
-Mi enfoque principal está en el desarrollo web, donde utilizo mis habilidades en Python, Django y JavaScript para crear soluciones innovadoras. Pueden explorar mi portfolio en [f-vega.com](https://f-vega.com) para conocer algunos de mis proyectos.
-
- ---
- 
-🧠 Inteligencia Artificial:
-
-Con un firme interés en la inteligencia artificial, estoy preparandome para enfrentar los desafíos futuros y contribuir al crecimiento de cualquier empresa. Mi habilidad en Python se extenderá al ámbito de la IA, donde estoy ansioso por aplicar mis conocimientos.
-
- ---
- 
-👨‍💻 Proyectos y Código:
-
-Mi compromiso con la excelencia se refleja en mis proyectos en GitHub, donde podrán encontrar desde minijuegos y aplicaciones web completas hasta algoritmos complejos. Destaco la refactorización exitosa de mi proyecto "El Canario Regionales" tanto en su lógica como en la interfaz, de esta manera optimicé los tiempos de respuesta del servidor en un 45%, demostrando mi capacidad y perseverancia para mejorar la eficiencia y la estética del código.
-
- ---
-
-🌐 Redes y Seguridad:
-
-Mis habilidades también se extienden al ámbito de la seguridad informática, con experiencia en auditoría de redes, kali linux y pentesting. Además, manejo con destreza servidores, protocolos de internet, bases de datos y configuraciones DNS.
- 
----
-
-📚 Compromiso con la Excelencia:
-
-Meticuloso/a en la creación de soluciones, documentación, diagramación y pruebas exhaustivas, como evidencia, les invito a explorar la documentación completa de uno de mis proyectos llamado "El Canario Regionales" en [darthkenar.github.io/ElCanarioRegionales](darthkenar.github.io/ElCanarioRegionales)
-
----
-
-🔗 Proyectos Adicionales:
-
-Participo activamente en el desarrollo de una startup que está programada para iniciar operaciones en 2024, mostrando mi compromiso con la innovación y el emprendimiento.
- 
----
-
-👨‍💻 Ultimo proyecto:
-
-Pomodoro Neumorfista
-
-[Despliegue live](https://darthkenar.github.io/PomodoroNeumorphism/)
-
-[Github repo link](https://github.com/DarthKenar/PomodoroNeumorphism)
 
 ---
 
