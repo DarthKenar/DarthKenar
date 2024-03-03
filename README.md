@@ -1,7 +1,5 @@
 ## 🚀 Analista en Sistemas | Desarrollador Web | Full Stack
 
-
-
 ---
 
 Estoy buscando oportunidades desafiantes en las que pueda intercambiar experiencia e ideas. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
