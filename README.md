@@ -2,9 +2,7 @@
 
 ---
 
-Estoy buscando oportunidades desafiantes en las que pueda intercambiar experiencia e ideas. ¡Espero con interés conectar con profesionales y empresas que compartan mi visión!
-
-Estoy disponible para conversar y abierto/a a oportunidades, ¡no dudes en contactarme!
+Estoy disponible para conversar y abierto a oportunidades, ¡no dudes en contactarme!
 
 📞 Contacto:
 
