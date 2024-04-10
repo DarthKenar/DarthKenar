@@ -6,7 +6,7 @@ Estoy disponible para conversar y abierto a oportunidades, ¡no dudes en contact
 
 📞 Contacto:
 
-+5492615880318 (disponible para trabajos particulares)
+[+5492615880318](https://wa.me/+5492615880318) (disponible para trabajos particulares)
 
 [LinkedIn](https://www.linkedin.com/in/federico-juan-vega)
 
