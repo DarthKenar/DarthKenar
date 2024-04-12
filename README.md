@@ -6,7 +6,7 @@ Estoy disponible para conversar y abierto a oportunidades, ¡no dudes en contact
 
 📞 Contacto:
 
-[whatsApp](https://wa.me/+5492615880318)
+[WhatsApp](https://wa.me/+5492615880318)
 
 [LinkedIn](https://www.linkedin.com/in/federico-juan-vega)
 
