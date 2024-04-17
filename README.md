@@ -2,7 +2,7 @@
 
 ---
 
-Estoy disponible para conversar y abierto a oportunidades, ¡no dudes en contactarme!
+Siempre abierto a nuevas oportunidades!
 
 📞 Contacto:
 
