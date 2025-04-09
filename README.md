@@ -6,8 +6,6 @@ Siempre abierto a nuevas oportunidades!
 
 📞 Contacto:
 
-[WhatsApp](https://wa.me/+5492615880318)
-
 [LinkedIn](https://www.linkedin.com/in/federico-juan-vega)
 
 [Portfolio](https://f-vega.com)
