@@ -2,8 +2,6 @@
 
 ---
 
-Siempre abierto a nuevas oportunidades!
-
 📞 Contacto:
 
 [LinkedIn](https://www.linkedin.com/in/federico-juan-vega)
