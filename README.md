@@ -2,11 +2,9 @@
 
 ---
 
-📞 Contacto:
+📞 Contact:
 
 [LinkedIn](https://www.linkedin.com/in/federico-juan-vega)
-
-[Portfolio](https://f-vega.com)
 
 [GitLab](https://gitlab.com/federico.vega2222)
 
