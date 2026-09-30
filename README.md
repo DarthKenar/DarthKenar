@@ -1,4 +1,4 @@
-## 🚀 Analista en Sistemas | Desarrollador Web | Full Stack
+## 🚀 Systems Analyst | Software Engineer
 
 ---
 
