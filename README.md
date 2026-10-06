@@ -4,6 +4,8 @@
 
 📞 Contact:
 
+[Portfolio](https://federicovega.dev/)
+
 [LinkedIn](https://www.linkedin.com/in/federico-juan-vega)
 
 [GitLab](https://gitlab.com/federico.vega2222)
